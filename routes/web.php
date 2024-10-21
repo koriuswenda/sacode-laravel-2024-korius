@@ -6,14 +6,27 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+
 Route::get('/about', function () {
     return view('about');
 });
 
-Route::get('/contact', function () {
-    return 'Halaman Contact';
+Route::get('/about/{nama}', function ($nama) {
+    return view('about', compact('nama'));
 });
 
-Route::get('/blog', function () {
-    return 'Halaman blog';
+
+Route::get('/contact', function () {
+    return view('contact');
 });
+Route::get('/blog', function () {
+    return view('blog');
+});
+
+// Route::get('/contact', function () {
+//     return 'Halaman Contact';
+// });
+
+// Route::get('/blog', function () {
+//     return 'Halaman blog';
+// });
