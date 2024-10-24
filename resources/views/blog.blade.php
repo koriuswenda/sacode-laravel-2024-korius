@@ -20,7 +20,7 @@
         </li>
 
         <li>
-            <a href="https://youtube.com/korius.wenda">Instagram</a>
+            <a href="https://youtube.com/koriuswenda5429">Instagram</a>
         </li>
     </ul>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum impedit commodi, animi voluptates velit aliquam
