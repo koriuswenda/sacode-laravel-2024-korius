@@ -20,4 +20,21 @@
 
 </body>
 
+<title>Contact</title>
+</head>
+
+<body>
+    <h1>Contact</h1>
+    <p>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempora eveniet quibusdam delectus maiores temporibus
+        aliquam repudiandae assumenda mollitia consequatur nam eligendi iure atque pariatur vero in id eos omnis minus,
+        veniam dolores neque laboriosam architecto! Aliquid aspernatur ullam tempore est quasi. Doloremque possimus
+        nesciunt debitis animi aliquid totam, culpa nisi.
+
+    </p>
+
+
+
+</body>
+
 </html>
